@@ -49,3 +49,4 @@ Train predictive models (e.g., XGBoost, Logistic Regression) using AWS SageMaker
 Set up fraud alerting via AWS Lambda and SNS  
 Embed dashboards in web apps using Power BI REST API or AWS QuickSight  
 
+Video - https://drive.google.com/file/d/1yAm57Bupn85YL0CAqcMZiumYz4BbjN8c/view?usp=sharing
